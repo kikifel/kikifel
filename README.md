@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I´m currentrly developing my skills... a developer in the making! Learning: Javascript, HTML, CSS, Node.Js, MySQL, Express, React and much more!
+I´m currently developing my skills... a developer in the making! Learning: Javascript, HTML, CSS, Node.Js, MySQL, Express, React and much more!
 
 Here are some ideas to get you started:
 
