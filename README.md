@@ -4,7 +4,7 @@ I´m currently developing my skills... a developer in the making! Learning: Java
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Learning!!
+- 🔭 I’m currently open to work 
 - 🌱 I’m currently learning Javascript, HTML, CSS, Node.Js, MySQL, Express, React and much more!
 - 👯 I’m looking to collaborate as a junior developing proyect where I can practise and develop my skills!
 - 🤔 I’m looking for help with improving my skiils ! 
